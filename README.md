@@ -2,6 +2,6 @@
 
 Marina Falzone & Jared Rabadam
 
-Verilog code, tb, pin assignments
+This project implements a SR latch, SR flip-flop, synchronous and asynchronous D flip-flop, T flip-flop (and a counter using it), and a clock divider.
 
-Project desc. & FPGA implementation
+To simulate, upload all Verilog files to Vivado. To simulate, set desired testbench as top and run simulation. 
